@@ -1,5 +1,8 @@
-# pytorch_forward_forward
-Implementation of forward-forward (FF) training algorithm - an alternative to back-propagation
+# pytorch_forward_forward_zh
+中文注释版 of forward-forward (FF) training algorithm - an alternative to back-propagation
+原理可以参考中文翻译：
+    https://www.163.com/dy/article/HNLP6E5N0511831M.html
+详细注释，请看 main.py 文件，本仓库fork于 https://github.com/mohammadpz/pytorch_forward_forward 感谢他们的付出，so cool！！！
 ---
 
 Below is my understanding of the FF algorithm presented at [Geoffrey Hinton's talk at NeurIPS 2022](https://www.cs.toronto.edu/~hinton/FFA13.pdf).\
